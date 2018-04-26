@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hedgehogs on My New Hugo Site</title>
+    <link>/tags/hedgehogs/</link>
+    <description>Recent content in Hedgehogs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Apr 2018 23:18:39 +1200</lastBuildDate>
+    
+	<atom:link href="/tags/hedgehogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deleteme</title>
+      <link>/articles/deleteme/</link>
+      <pubDate>Mon, 23 Apr 2018 23:18:39 +1200</pubDate>
+      
+      <guid>/articles/deleteme/</guid>
+      <description>Dummy page</description>
+    </item>
+    
+  </channel>
+</rss>

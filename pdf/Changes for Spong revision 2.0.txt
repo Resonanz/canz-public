@@ -1,0 +1,18 @@
+4.11.2003
+Changes to generate a revision 2.0 journal for publishing to the WCAS website in
+preparation for Spong's visit (6.11.2003).
+* Added revision number and date to page i below ISSN number
+* Changed page 51 text from
+  "He accuses the late Archbishop George Carey..." to
+  "He accuses the Archbishop George Carey..."
+* Changed page 52 text from
+  "as the late Archbishop George Carey..." to
+  "as the Archbishop George Carey..."
+  
+There are other small changes required that were incorporated into the last
+printing via David Lane's twink bottle. These changes are NOT in revision 2.0 of 
+this journal.
+
+
+
+

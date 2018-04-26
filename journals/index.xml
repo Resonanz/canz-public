@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journals on My New Hugo Site</title>
+    <link>/journals/</link>
+    <description>Recent content in Journals on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Apr 2018 21:03:08 +1200</lastBuildDate>
+    
+	<atom:link href="/journals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apologia: Focus on James Veitch</title>
+      <link>/journals/veitch/</link>
+      <pubDate>Sun, 22 Apr 2018 18:23:03 +1200</pubDate>
+      
+      <guid>/journals/veitch/</guid>
+      <description>Click here to download the complete PDF journal (0.7 MB).</description>
+    </item>
+    
+    <item>
+      <title>Apologia: Focus on John Shelby Spong</title>
+      <link>/journals/spong/</link>
+      <pubDate>Sun, 22 Apr 2018 18:23:03 +1200</pubDate>
+      
+      <guid>/journals/spong/</guid>
+      <description>Click here to download the complete PDF journal (2.1 MB).</description>
+    </item>
+    
+  </channel>
+</rss>

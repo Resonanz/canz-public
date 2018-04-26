@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on My New Hugo Site</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Apr 2018 21:03:08 +1200</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statement of Belief</title>
+      <link>/pages/statement_of_belief/</link>
+      <pubDate>Mon, 23 Apr 2018 21:34:39 +1200</pubDate>
+      
+      <guid>/pages/statement_of_belief/</guid>
+      <description>The divine inspiration, infallibility and inerrancy of the Bible, as originally given, and its supreme authority in all matters of faith and conduct. The Bible comprises the 39 books of the Old Testament and 27 books of the New Testament. The eternal, everlasting, self-existing nature of the Godhead, Who is Maker of the universe, which is separate from, but being finite is completely dependent on Him; Who is both transcendent of and immanent within His creation; Who is the great I AM and Immanuel of the Christian scriptures; Who is Creator and Saviour, Judge and Lover of humankind.</description>
+    </item>
+    
+    <item>
+      <title>About the Society</title>
+      <link>/pages/about_the_society/</link>
+      <pubDate>Sun, 22 Apr 2018 18:23:03 +1200</pubDate>
+      
+      <guid>/pages/about_the_society/</guid>
+      <description>The Society was incorporated in 1991. It is a group of Christians with an interest in apologetics. We join together with these aims:
+ To help others to faith in Christ, His death for their sins, His burial, and His resurrection (1Cor.15:1-4). To help educate Christians in the theory and practice of apologetics. To foster fellowship and support of Christians interested in apologetics. To run regular discussions, meetings, workshops, etc. To help explain and defend Christianity, including the doctrines in the Statement of Belief, through public meetings, debates, media promotions, etc.</description>
+    </item>
+    
+    <item>
+      <title>What is Christian Apologetics?</title>
+      <link>/pages/what_is_apologetics/</link>
+      <pubDate>Sun, 22 Apr 2018 18:20:56 +1200</pubDate>
+      
+      <guid>/pages/what_is_apologetics/</guid>
+      <description>No, Christian apologetics doesn&amp;rsquo;t mean saying sorry that you&amp;rsquo;re a Christian. A confusion arises because the English word apology now has a rather different meaning from the Greek word from which it was derived (apologia). Rather, this word literally means &amp;ldquo;out of logic/reason&amp;rdquo;, and refers to a reasoned defence that would be given in a court of law. The classic example is Plato&amp;rsquo;s Apology, Socrates&amp;rsquo; defence against the charges of atheism and corrupting the youth.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Sat, 21 Apr 2018 21:52:41 +1200</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>The Society was incorporated in 1991. It is a group of Christians with an interest in apologetics. We join together with these aims:
+ To help others to faith in Christ, His death for their sins, His burial, and His resurrection (1Cor.15:1-4). To help educate Christians in the theory and practice of apologetics. To foster fellowship and support of Christians interested in apologetics. To run regular discussions, meetings, workshops, etc. To help explain and defend Christianity, including the doctrines in the Statement of Belief, through public meetings, debates, media promotions, etc.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/pages/contact/</link>
+      <pubDate>Sat, 21 Apr 2018 21:52:37 +1200</pubDate>
+      
+      <guid>/pages/contact/</guid>
+      <description>Please contact us by email using apologianz AT gmail DOT com.</description>
+    </item>
+    
+    <item>
+      <title>How to order a journal</title>
+      <link>/pages/ordering/</link>
+      <pubDate>Sat, 21 Apr 2018 21:02:38 +1200</pubDate>
+      
+      <guid>/pages/ordering/</guid>
+      <description>The Editor (Apologia)
+106 Hataitai Rd
+Hataitai
+Wellington
+New Zealand
+Or you can phone/fax your order to
+Tel./fax +64 4 970 1067
+Don&amp;rsquo;t forget to enquire about bulk pricing, or reduced pricing if you require several different issues.</description>
+    </item>
+    
+  </channel>
+</rss>
