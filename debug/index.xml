@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debugs on My New Hugo Site</title>
+    <link>/debug/</link>
+    <description>Recent content in Debugs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2018 00:33:53 +1200</lastBuildDate>
+    
+	<atom:link href="/debug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gridtest page</title>
+      <link>/debug/gridtest/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/debug/gridtest/</guid>
+      <description> Does this website work for you? Email problems, feedback, or other corrections to apologianz AT gmail DOT com   Latest Hugo releases here Latest Bootstrap releases here      </description>
+    </item>
+    
+  </channel>
+</rss>

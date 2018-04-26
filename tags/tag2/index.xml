@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Gridtest page</title>
+      <link>/debug/gridtest/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/debug/gridtest/</guid>
+      <description> Does this website work for you? Email problems, feedback, or other corrections to apologianz AT gmail DOT com   Latest Hugo releases here Latest Bootstrap releases here      </description>
+    </item>
+    
+    <item>
       <title>Index</title>
       <link>/</link>
       <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
