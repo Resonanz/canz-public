@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/articles/delme2/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/articles/delme3/</loc>
     <lastmod>2018-04-25T00:33:53+12:00</lastmod>
   </url>
   
   <url>
     <loc>/articles/delme4/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/delme2/</loc>
     <lastmod>2018-04-25T00:33:53+12:00</lastmod>
   </url>
   
