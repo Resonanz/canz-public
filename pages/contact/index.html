@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Website for the Wellington Christian Apologetics Society">
     <meta name="author" content="Team Christian Apologetics New Zealand">
-    <meta name="generator" content="Hugo 0.40.1" />
+    <meta name="generator" content="Hugo 0.49.2" />
 
     
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -19,7 +19,7 @@
 
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="/">
-    <img src="/img/logo.png" width="200" height="38" alt="Wellington Christian Apologetics Society"></a>
+    <img src="/img/wcaslogo.png" width="200" height="40" alt="Wellington Christian Apologetics Society"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -46,7 +46,6 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="articlesDropdown">
           <a class="dropdown-item" href="/articles/science_and_faith/"><i class="fa fa-file-o mx-2"></i>Science and Christian Faith</a>
-          <a class="dropdown-item" href="/articles/cornered_by_corner/"><i class="fa fa-file-o mx-2"></i>James Veitch: Cornered by Corner?</a>
         </div>
       </li>
 
@@ -91,12 +90,7 @@
 </div>
 
 
-<div class="container py-5">
-  <div class="row pb-3">
-    <div class="col-sm">
-      
-    </div>
-  </div>
+<div class="container py-3">
   <div class="row">
     <div class="col-sm">
     <p>Please contact us by email using <strong>apologianz AT gmail DOT com</strong>.</p>
@@ -107,21 +101,21 @@
 
 <div class="container-fluid bg-secondary text-light">
   <div class="row">
-    <div class="hidden-xs col-lg-2">
+    <div class="col-sm-1 col-md-2">
     </div>
-      <div class="col-sm-6 col-lg-4 pt-sm-3">
+      <div class="col-sm-5 col-md-4 pt-sm-3">
       <ul class="list-group list-group-flush">
-        <li class="list-group-item bg-secondary text-light text-center">Does this website work for you? Email problems, feedback, or other corrections to apologianz AT gmail DOT com</li>
+        <li class="list-group-item bg-secondary text-light text-center">Does this website work for you?<br>Email problems, feedback, or other corrections to:<br>apologianz AT gmail DOT com</li>
       </ul>
     </div>
-    <div class="col-sm-6 col-lg-4">
+    <div class="col-sm-5 col-md-4">
       <ul class="list-group list-group-flush">
         <li class="list-group-item bg-secondary text-light text-center">Latest Hugo releases <a class="text-light" href="https://github.com/gohugoio/hugo/releases" target="_blank">here</a></li>
         <li class="list-group-item bg-secondary text-light text-center">Latest Bootstrap releases <a class="text-light" href="https://getbootstrap.com/docs/4.1/getting-started/download/" target="_blank">here</a></li>
         <li class="list-group-item bg-secondary text-light text-center">Responsinator testing <a class="text-light" href="http://www.responsinator.com/?url=kitten-723.getforge.io" target="_blank">here</a></li>
       </ul>
     </div>
-    <div class="hidden-xs col-lg-2">
+    <div class="col-sm-1 col-md-2">
     </div>
   </div>
 </div>
@@ -129,7 +123,7 @@
 <div class="container-fluid bg-secondary text-light py-3">
   <div class="row pt-5 pt-lg-2">
       <div class="col-sm text-center">
-        <div class="text-monospace bg-secondary text-white">All content is &copy;2018 Wellington Christian Apologetics Society. All rights reserved.</div>
+        <code class="bg-secondary text-white">All content is &copy;2018 Wellington Christian Apologetics Society. All rights reserved.</code>
       </div>
   </div>
 </div>
@@ -140,25 +134,22 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-
-
-
-
-
-
 <script>
-$(document).ready(function(){
-  $("#myInput").on("keyup", function() {
-    var value = $(this).val().toLowerCase();
-    $("#myTable tr").filter(function() {
-      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-    });
-  });
-});
+	var refTagger = {
+		settings: {
+			bibleReader: "bible.faithlife",
+			bibleVersion: "NIV",			
+			roundCorners: true,
+			socialSharing: ["faithlife","twitter","facebook"],
+			tooltipStyle: "dark"
+		}
+	};
+	(function(d, t) {
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = "//api.reftagger.com/v2/RefTagger.js";
+		s.parentNode.insertBefore(g, s);
+	}(document, "script"));
 </script>
-
-
-
 
 
 </body>

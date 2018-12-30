@@ -12,34 +12,6 @@
     
     
     <item>
-      <title>Delme3</title>
-      <link>/articles/delme3/</link>
-      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
-      
-      <guid>/articles/delme3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delme4</title>
-      <link>/articles/delme4/</link>
-      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
-      
-      <guid>/articles/delme4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Filter table testing</title>
-      <link>/articles/delme2/</link>
-      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
-      
-      <guid>/articles/delme2/</guid>
-      <description>Filterable Table Type something in the input field to search the table for first names, last names or emails:
-  Firstname Lastname Email    John1:23 Doe john@example.com   Mary had a little lamb Moe mary@mail.com   1 Peter 3:15 Dooley july@greatstuff.com   Anja Ravendale a_r@test.com   John Doe john@example.com   Mary Moe mary@mail.com   July Dooley july@greatstuff.com   Anja Ravendale a_r@test.</description>
-    </item>
-    
-    <item>
       <title>Gridtest page</title>
       <link>/debug/gridtest/</link>
       <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
@@ -49,21 +21,15 @@
     </item>
     
     <item>
-      <title>James Veitch: Cornered by Corner?</title>
-      <link>/articles/cornered_by_corner/</link>
-      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
-      
-      <guid>/articles/cornered_by_corner/</guid>
-      <description>From time to time, the press comes out with headlines like &amp;ldquo;Jesus created by Church - lecturer.&amp;rdquo; And so it did in late November 1996.1 It was a simple report in The Evening Post describing briefly Dr Jim Veitch&amp;rsquo;s views and promoting a talk he was to give the following day at St Andrews On The Terrace. This is, of course, precisely where we would expect it to be given.</description>
-    </item>
-    
-    <item>
-      <title>Deleteme</title>
-      <link>/articles/deleteme/</link>
+      <title>Science and Christian Faith</title>
+      <link>/articles/science_and_faith/</link>
       <pubDate>Mon, 23 Apr 2018 23:18:39 +1200</pubDate>
       
-      <guid>/articles/deleteme/</guid>
-      <description>Dummy page</description>
+      <guid>/articles/science_and_faith/</guid>
+      <description>by David Lane, M.Sc.(Hons), Dip. Tchg.
+Francis Bacon (1561&amp;ndash;1626), widely recognised as the Father of modem science wrote:
+&#34;There are two books laid out before us to study to prevent us failing into error: the volume of Scriptures which reveal the will of God and the volume of the creatures.&#34;
+The Bible is man&amp;rsquo;s primary source of God&amp;rsquo;s revelation and the &amp;ldquo;volume of the creatures,&amp;rdquo; God&amp;rsquo;s general revelation through nature, proclaims God&amp;rsquo;s &amp;ldquo;invisible attributes, His eternal power and godhead&amp;rdquo; (Rom.</description>
     </item>
     
     <item>
@@ -109,7 +75,9 @@
       <pubDate>Sun, 22 Apr 2018 18:20:56 +1200</pubDate>
       
       <guid>/pages/what_is_apologetics/</guid>
-      <description>No, Christian apologetics doesn&amp;rsquo;t mean saying sorry that you&amp;rsquo;re a Christian. A confusion arises because the English word apology now has a rather different meaning from the Greek word from which it was derived (apologia). Rather, this word literally means &amp;ldquo;out of logic/reason&amp;rdquo;, and refers to a reasoned defence that would be given in a court of law. The classic example is Plato&amp;rsquo;s Apology, Socrates&amp;rsquo; defence against the charges of atheism and corrupting the youth.</description>
+      <description>No, Christian apologetics doesn&amp;rsquo;t mean saying sorry that you&amp;rsquo;re a Christian.
+A confusion arises because the English word apology now has a rather different meaning from the Greek word from which it was derived (apologia).
+Rather, this word literally means &amp;ldquo;out of logic/reason&amp;rdquo;, and refers to a reasoned defence that would be given in a court of law. The classic example is Plato&amp;rsquo;s Apology, Socrates&amp;rsquo; defence against the charges of atheism and corrupting the youth.</description>
     </item>
     
     <item>
@@ -118,8 +86,8 @@
       <pubDate>Sat, 21 Apr 2018 21:52:41 +1200</pubDate>
       
       <guid>/pages/about/</guid>
-      <description>The Society was incorporated in 1991. It is a group of Christians with an interest in apologetics. We join together with these aims:
- To help others to faith in Christ, His death for their sins, His burial, and His resurrection (1Cor.15:1-4). To help educate Christians in the theory and practice of apologetics. To foster fellowship and support of Christians interested in apologetics. To run regular discussions, meetings, workshops, etc. To help explain and defend Christianity, including the doctrines in the Statement of Belief, through public meetings, debates, media promotions, etc.</description>
+      <description>Thee Society was incorporated in 1991. It is a group of Christians with an interest in Christian apologetics. We join together with these aims:
+ To help others to faith in Christ, His death for their sins, His burial, and His resurrection (1 Cor 15:1-4). To help educate Christians in the theory and practice of apologetics. To foster fellowship and support of Christians interested in apologetics. To run regular discussions, meetings, workshops, etc.</description>
     </item>
     
     <item>
@@ -145,17 +113,6 @@ New Zealand
 Or you can phone/fax your order to
 Tel./fax +64 4 970 1067
 Don&amp;rsquo;t forget to enquire about bulk pricing, or reduced pricing if you require several different issues.</description>
-    </item>
-    
-    <item>
-      <title>Science and Christian Faith</title>
-      <link>/articles/science_and_faith/</link>
-      <pubDate>Sat, 30 Oct 1993 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/science_and_faith/</guid>
-      <description>Francis Bacon (1561&amp;ndash;1626), widely recognised as the Father of modem science wrote:
-&#34;There are two books laid out before us to study to prevent us failing into error: the volume of Scriptures which reveal the will of God and the volume of the creatures.&#34;
-The Bible is man&amp;rsquo;s primary source of God&amp;rsquo;s revelation and the &amp;ldquo;volume of the creatures,&amp;rdquo; God&amp;rsquo;s general revelation through nature, proclaims God&amp;rsquo;s &amp;ldquo;invisible attributes, His eternal power and godhead&amp;rdquo; (Rom.</description>
     </item>
     
   </channel>

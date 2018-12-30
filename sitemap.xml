@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/articles/delme3/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/articles/delme4/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/articles/delme2/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/debug/gridtest/</loc>
     <lastmod>2018-04-25T00:33:53+12:00</lastmod>
   </url>
@@ -28,12 +13,7 @@
   </url>
   
   <url>
-    <loc>/articles/cornered_by_corner/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/articles/deleteme/</loc>
+    <loc>/articles/science_and_faith/</loc>
     <lastmod>2018-04-23T23:18:39+12:00</lastmod>
   </url>
   
@@ -98,49 +78,13 @@
   </url>
   
   <url>
-    <loc>/articles/science_and_faith/</loc>
-    <lastmod>1993-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/angela-ots/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/apologia/</loc>
     <lastmod>2018-04-23T23:18:39+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/apologia-journal/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/apologia-journal/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/apples/</loc>
-    <lastmod>2018-04-23T23:18:39+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/david-lane/</loc>
-    <lastmod>1993-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,61 +95,7 @@
   </url>
   
   <url>
-    <loc>/tags/evening-post/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/fossils/</loc>
-    <lastmod>1993-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hedgehogs/</loc>
-    <lastmod>2018-04-23T23:18:39+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/james-veitch/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/justin-cargill/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/khandallah/</loc>
-    <lastmod>1993-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/lloyd-geering/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/n-t-wright/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/onslow-chapel/</loc>
-    <lastmod>1993-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/oranges/</loc>
     <lastmod>2018-04-23T23:18:39+12:00</lastmod>
     <priority>0</priority>
   </url>
@@ -217,12 +107,6 @@
   </url>
   
   <url>
-    <loc>/categories/science-and-faith/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/tag1/</loc>
     <lastmod>2018-04-25T00:33:53+12:00</lastmod>
     <priority>0</priority>
@@ -230,18 +114,6 @@
   
   <url>
     <loc>/tags/tag2/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/wellington/</loc>
-    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/william-lane-craig/</loc>
     <lastmod>2018-04-25T00:33:53+12:00</lastmod>
     <priority>0</priority>
   </url>
