@@ -1,2 +1,0 @@
-# CANZ-public
-CANZ website
